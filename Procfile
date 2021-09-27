@@ -1,0 +1,1 @@
+web: gunicorn googleAPI.wsgi --log-file -
